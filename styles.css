@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body {
+	background-color: #a164df
+}
+#buttons {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  background: #663399;
+  color: #fff;
+  cursor: pointer;
+	border-radius: 5px;
+}
